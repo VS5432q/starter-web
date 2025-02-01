@@ -17,6 +17,7 @@ This is a sample web project
 
 ## How to Contribute
 
+Please fork this repository and then issue pull requests for review.
 
 ## Copyright
 
